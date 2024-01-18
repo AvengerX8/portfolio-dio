@@ -1,0 +1,73 @@
+{
+  "name": "Alexsander Furtado",
+  "photo": "https://avatars.githubusercontent.com/u/91105206?v=4",
+  "job": "Desenvolvedor Junior",
+  "location": "Jaraguá do Sul - SC",
+  "phone": "(47) 99971-2317",
+  "email": "alexsander.f.lex@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Dedicação"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/AvengerX8/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de um blog utilizando componentes em Angular",
+      "url": "https://github.com/AvengerX8/blog-angular",
+      "github": true
+    },
+    {
+      "name": "Atividade do curso de Desenvolvimento de Sistemas do SENAI para prática de formulários em Angular",
+      "url": "https://github.com/AvengerX8/formulario-angular",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Programador Junior / Você Pede Sistemas",
+      "period": "Abril/2023 - Dezembro/2023",
+      "description": "Dentre as minhas principais responsabilidades, estava o desenvolvimento de novas funcionalidades, algoritmos de menor complexidade, correção de bugs, refatoração de código legado, correções de layout, consumo de API's e Banco de Dados."
+    },
+    {
+      "name": "Consultor Comercial / Movtech Sistemas",
+      "period": "Setembro/2022 - Março/2023",
+      "description": "Prospecção de Leads, gestão de carteira de leads qualificados, apresentação comercial do software, negociação, follow-up, envio de contrato e fechamento."
+    }
+  ]
+}
